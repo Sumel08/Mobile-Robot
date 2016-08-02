@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MobileRobot</string>
+
+    <string name="title">Robot Móvil</string>
+    <string name="something">Something</string>
+    <string name="map">Ver en Mapa</string>
+    <string name="front">Adelante</string>
+    <string name="left">Izqueirda</string>
+    <string name="right">Derecha</string>
+    <string name="back">Atrás</string>
+
+    <string name="deviceList">Seleccione un dispositivo Bluetooth</string>
+    <string name="loadDB">Load DB</string>
+    <string name="eraseDB">Erase DB</string>
+    <string name="saveFile">Save File</string>
+</resources>
